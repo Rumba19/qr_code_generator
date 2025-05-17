@@ -10,7 +10,7 @@ This Python application generates a QR code from a given URL.
   To install the required libraries, run the following command:
 
   ```bash
-  pip install qrcode[pil]
+  pip install qrcode
 
 
 ## Usage
